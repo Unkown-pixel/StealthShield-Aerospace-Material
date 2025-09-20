@@ -1,0 +1,6 @@
+b4c_vol_percent,neutron_shielding_percent,gamma_shielding_percent,viscosity_cp,cost_usd_per_kg
+3,82,25,3600,330
+4,86,27,3850,334
+5,89,28,4100,338
+6,91,29,4400,342
+7,92,30,4750,346
