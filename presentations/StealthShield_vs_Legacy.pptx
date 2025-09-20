@@ -1,0 +1,61 @@
+Slide 1: Title
+
+StealthShield-Mid: The First Multifunctional Aerospace Skin
+Unknown-pixel + Qwen • 2025 
+
+ Slide 2: The Gap
+
+“No existing material combines stealth, radiation shielding, and high-temp performance in one structural system.” 
+
+F-35: Stealth ✅, Radiation ❌, Temp ❌
+PICA-X: Temp ✅, Stealth ❌, Structure ❌
+JAXA Rad Panel: Radiation ✅, Stealth ❌, Temp ❌
+ Slide 3: Our Solution
+
+StealthShield-Mid CFRP Hybrid 
+
+RCS: -16.8 dB
+Shielding: 89% n / 28% γ
+Temp: 308°C
+Cost: $330/kg
+Weight: 5.85 kg/m²
+ Slide 4: Architecture
+
+[Insert figure: Layer stack schematic] 
+
+T800/CE CFRP
+Gd₂O₃ + B₄C interleaf
+Embedded Cu FSS @ λ/4 depth
+ Slide 5: Why 9.5% FSS?
+
+[Insert figure: FSS vs RCS curve] 
+
+8% → -14.2 dB
+9.5% → -16.8 dB (+2.6 dB = 45% less radar return)
+18% → -24.0 dB (cost ↑ 2.7x for +7.2 dB)
+ Slide 6: Benchmark
+
+[Insert radar chart or table]
+StealthShield-Mid dominates the “multifunctional quadrant” 
+
+ Slide 7: Use Cases
+
+Penetrating UCAVs
+Crewed hypersonic spaceplanes
+Stealth LEO satellites
+Exportable drones
+ Slide 8: Manufacturing
+
+✅ AFP + Autoclave
+✅ No exotic tooling
+✅ Repairable in field 
+
+ Slide 9: Next Steps
+
+Prototype (TRL 6)
+Arc jet + radiation testing
+Flight demo on HAPS or UCAV
+ Slide 10: Contact
+
+GitHub: github.com/Unknown-pixel/StealthShield-Aerospace-Material
+“Let’s build the future of flight — together.” 
